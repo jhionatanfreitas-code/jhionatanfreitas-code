@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou Jhionatan Rossetti De Freitas
 
-🎓 Estudante da Aprendizagem Industrial em Programador De Sistemas da Informação
+🎓 Estudante da Aprendizagem Industrial de Programador de Sistemas da Informação. (Senai) contratado pela Empresa Seara Alimentos.
+🎓 Estudante do 3º ano da Escola Estadual EEB Cecilia Vívan 2026.
+
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
