@@ -39,7 +39,9 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 📌 Projeto 1 – https://jhionatanfreitas-code.github.io/site2/ 
+
 📌 Projeto 2 – [Nome do Projeto]  
+
 📌 Projeto 3 – [Nome do Projeto]  
 
 ---
